@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYcdVK3QGqSeK4vDkkP2m3HbcZNeLh6leovz2rP1XpuTLK/kZFM0C+II/M4CaHy0W2fdLV1K21JWMrxfpKG4dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micaela Rojas\\source\\repos\\Lab07_Multiplataforma\\Ejercicio04\\Ejercicio04.iOS\\Ejercicio04.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qVoJXA567BbnoxpbvqtFDb+y/8o/5oq/uCGpjC5K6qjjGgzhCusZ7xG0odW8t5DuYigqENB8645Z2uOiQAvN6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Micaela Rojas\\source\\repos\\Lab07_Multiplataforma\\TestQR\\TestQR.iOS\\TestQR.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Micaela Rojas\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

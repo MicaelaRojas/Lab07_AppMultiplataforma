@@ -1,0 +1,15 @@
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.csproj.AssemblyReference.cache
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.AssemblyInfoInputs.cache
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.AssemblyInfo.cs
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.csproj.CoreCompileInputs.cache
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.dll
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\refint\TestQR.dll
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\TestQR.pdb
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\bin\Debug\netstandard2.0\TestQR.deps.json
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\bin\Debug\netstandard2.0\TestQR.dll
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\bin\Debug\netstandard2.0\TestQR.pdb
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Micaela Rojas\source\repos\TestQR\TestQR\obj\Debug\netstandard2.0\ref\TestQR.dll
